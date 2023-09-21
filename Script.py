@@ -40,4 +40,4 @@ def file_organizer():
 if __name__ == "__main__":
     while True:
         file_organizer()
-        time.sleep(10) ##This checks it every 10 seconds. However you can set it to any timeframe(in seconds) that you would like the scrip to check it
+        time.sleep(1) ##This checks it every 10 seconds. However you can set it to any timeframe(in seconds) that you would like the scrip to check it
